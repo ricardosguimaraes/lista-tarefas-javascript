@@ -1,8 +1,8 @@
 :root {
-    --bg: #F4F4F4;
-    --primary: #25015f;
-    --primary-light: #4600b6;
-    --secondary: #160038;
+    --bg: #fdfdfd;
+    --primary: #000350;
+    --primary-light: #f8f8f838;
+    --secondary: #000235;
     --gray: #666;
     --font-family: 'Nunito', sans-serif;
   }
@@ -42,6 +42,7 @@
       padding: 3rem 2.5rem;
       color: #fff;
       border-radius: 5px;
+      box-shadow: 5px 5px 25px black ;
     }
     #tarefas-app .container ~ .container{
         margin-top:5px;
